@@ -27,3 +27,11 @@ Building AI-powered products
 - shadcn/ui
 - Hono
 - Drizzle
+
+---
+
+## Open Source
+
+- Nuxt framework contribution (student days)
+  - Bug fix and internal implementation improvement  
+    https://github.com/nuxt/framework/pull/1108
