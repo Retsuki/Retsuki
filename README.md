@@ -1,3 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_NAME&layout=compact)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_NAME&show_icons=true)
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,postgres,supabase,firebase,gcp)](https://skillicons.dev)
