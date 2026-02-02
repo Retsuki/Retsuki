@@ -19,9 +19,11 @@ Building AI-powered products
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,reactnative,expo,vue,nuxt,nextjs,flutter,tailwind,shadcnui,nodejs,express,postgres,supabase,firebase,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,vue,nuxtjs,nextjs,flutter,tailwind,nodejs,express,postgres,prisma,supabase,firebase,gcp)](https://skillicons.dev)
 
-**Also using**
+**Also using (no icons on skill-icons)**
+- React Native
+- Expo
+- shadcn/ui
 - Hono
 - Drizzle
-- Prisma
